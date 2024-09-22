@@ -47,3 +47,5 @@ Lancez le jeu et jouez en ligne avec vos amis !
 Licence
 
 Vaderetro est un freeware, mais son code source n’est pas ouvert. Utilisation gratuite pour tous !
+
+Pour toute question ou pour rejoindre notre communauté, rendez-vous sur le Discord officiel de Vaderetro : https://discord.gg/X2RRmTCVUe
